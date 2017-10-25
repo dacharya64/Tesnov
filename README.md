@@ -5,4 +5,4 @@ I made this project when studying abroad in Prague. It is a 3D rendering based o
 
 The project showcases a legal graffiti site created in Unity using 2D pictures (taken with a DSLR) and 3D modeled objects to create the environment. 
 
-You can play it online or download the repo to ge the Windows exes.
+You can play it online at http://www.devi-a.com/Tesnov or download the repo to ge the Windows exes.
